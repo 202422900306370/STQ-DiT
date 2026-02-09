@@ -1,0 +1,17 @@
+name: DiT
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python >= 3.8
+  - pytorch = 1.13.1
+  - torchvision = 0.14.1
+  - pytorch-cuda=11.6
+  - pip
+  - pip:
+    - timm
+    - scipy
+    - numpy==1.26.4
+    - accelerate
+    - einops
+    - diffusers

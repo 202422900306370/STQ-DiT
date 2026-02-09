@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f6a21ed-a0ec-4422-b19e-02e9f3b166eb" name="更改" comment="1.0">
+      <change afterPath="$PROJECT_DIR$/quarot/hadamard_mat/had.144.tpal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quarot/hadamard_mat/hadamard_mat.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quarot/hadamard_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quarot/quarot_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quarot/rotate_layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/adaptive_rounding.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/adaptive_rounding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/block_pct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/block_recon.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/block_recon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/layer_pct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/layer_recon.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/layer_recon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/quant_block.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/quant_block.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/quant_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/quant_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/quant_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/quant_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quant_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant_sample.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2z2AmULGrEnRAwqcU9uiigSvviH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<未知>",
+    "last_opened_file_path": "F:/IVC/baseline/PTQ4DiT/PTQ4DiT-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main\quarot" />
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main" />
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main\quant" />
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main\quarot\hadamard_mat" />
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main\evaluation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main" />
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main\figures" />
+      <recent name="F:\2025.6.9 diffusion for SR\baseline\PTQ4DiT\PTQ4DiT-main\quarot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PTQ4DiT-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eebebe6c2be4-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15325.20" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5f6a21ed-a0ec-4422-b19e-02e9f3b166eb" name="更改" comment="" />
+      <created>1750918952732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750918952732</updated>
+      <workItem from="1750918956138" duration="55405000" />
+      <workItem from="1751374126714" duration="28643000" />
+      <workItem from="1751889035554" duration="211093000" />
+      <workItem from="1753420011983" duration="2549000" />
+      <workItem from="1753437465643" duration="98938000" />
+      <workItem from="1753782608273" duration="86879000" />
+      <workItem from="1754004512573" duration="613000" />
+      <workItem from="1754010575514" duration="10515000" />
+      <workItem from="1754122385815" duration="19791000" />
+      <workItem from="1754292586124" duration="54578000" />
+      <workItem from="1754552106977" duration="26190000" />
+      <workItem from="1754880654687" duration="240466000" />
+      <workItem from="1755522739950" duration="133765000" />
+      <workItem from="1756532791882" duration="43598000" />
+      <workItem from="1756692943861" duration="1054000" />
+      <workItem from="1756694025557" duration="56337000" />
+      <workItem from="1756816320074" duration="46208000" />
+      <workItem from="1757059615688" duration="17970000" />
+      <workItem from="1757316249979" duration="10970000" />
+      <workItem from="1757343869468" duration="1525000" />
+      <workItem from="1757400298141" duration="4381000" />
+      <workItem from="1757404897193" duration="2428000" />
+      <workItem from="1757407535885" duration="19570000" />
+      <workItem from="1757503761043" duration="9000" />
+      <workItem from="1757512100396" duration="27000" />
+      <workItem from="1757515558639" duration="135755000" />
+      <workItem from="1758203752950" duration="523000" />
+      <workItem from="1758594570019" duration="28035000" />
+      <workItem from="1758690767545" duration="3577000" />
+      <workItem from="1758700028954" duration="103190000" />
+      <workItem from="1760165179263" duration="2123000" />
+      <workItem from="1760182991477" duration="51000" />
+      <workItem from="1760325541069" duration="1504000" />
+      <workItem from="1760420289839" duration="39535000" />
+      <workItem from="1760693634781" duration="11366000" />
+      <workItem from="1761356427200" duration="6736000" />
+      <workItem from="1761468116356" duration="18103000" />
+      <workItem from="1762333272775" duration="889000" />
+      <workItem from="1763454350533" duration="144000" />
+      <workItem from="1763454685717" duration="74000" />
+      <workItem from="1763454947814" duration="3000" />
+      <workItem from="1763456061139" duration="66000" />
+      <workItem from="1763456138028" duration="47000" />
+      <workItem from="1763456837030" duration="151000" />
+      <workItem from="1767333187800" duration="1948000" />
+      <workItem from="1767773895031" duration="19000" />
+      <workItem from="1768999883834" duration="3274000" />
+      <workItem from="1770177620344" duration="38000" />
+      <workItem from="1770620536333" duration="1808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+  </component>
+</project>
