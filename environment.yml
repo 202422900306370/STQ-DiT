@@ -1,4 +1,4 @@
-name: DiT
+name: STQ-DiT
 channels:
   - pytorch
   - nvidia

@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f6a21ed-a0ec-4422-b19e-02e9f3b166eb" name="更改" comment="1.0">
-      <change afterPath="$PROJECT_DIR$/quarot/hadamard_mat/had.144.tpal.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarot/hadamard_mat/hadamard_mat.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarot/hadamard_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarot/quarot_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quarot/rotate_layers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/adaptive_rounding.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/adaptive_rounding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/block_pct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/block_recon.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/block_recon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/layer_pct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/layer_recon.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/layer_recon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/quant_block.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/quant_block.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/quant_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/quant_layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/quant_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/quant_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quant_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/quant_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +31,7 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2z2AmULGrEnRAwqcU9uiigSvviH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +42,7 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<未知>",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "F:/IVC/baseline/PTQ4DiT/PTQ4DiT-main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -178,7 +161,17 @@
       <workItem from="1768999883834" duration="3274000" />
       <workItem from="1770177620344" duration="38000" />
       <workItem from="1770620536333" duration="1808000" />
+      <workItem from="1770625670826" duration="2990000" />
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <option name="closed" value="true" />
+      <created>1770625866662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770625866662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
